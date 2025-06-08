@@ -1,6 +1,7 @@
 
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.com
 0.0.0.0 xvideos.com
 0.0.0.0 pornhub.com
 0.0.0.0 exhentai.org
@@ -17,4 +18,5 @@
 0.0.0.0 nitter.poast.org
 0.0.0.0 discord.com
 0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
 0.0.0.0 4chan.org
