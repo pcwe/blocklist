@@ -3,8 +3,11 @@
 0.0.0.0 tumblr.com
 0.0.0.0 xvideos.com
 0.0.0.0 pornhub.com
+0.0.0.0 exhentai.org
+0.0.0.0 e-hentai.org
 0.0.0.0 kemono.su
 0.0.0.0 baraag.net
+
 # mine
 0.0.0.0 coomer.su
 0.0.0.0 xcancel.com
